@@ -9,18 +9,19 @@
 ** now close ssh terminal and open your sftp terminal and edit bot.lau , launch.sh , auto.sh 
 
 ** now open another ssh terminal and :
-####### cd RAD
 
-####### chmod +x install.sh
+#### cd RAD
 
-####### chmod +x launch.sh
+#### chmod +x install.sh
 
-####### ./install.sh
+#### chmod +x launch.sh
+
+#### ./install.sh
 
 ** your bot has been installed 
 
 ## autolaunch
 
-###### cd RAD
+#### cd RAD
 
-###### ./auto.sh or screen ./launch.sh
+#### ./auto.sh or screen ./launch.sh
